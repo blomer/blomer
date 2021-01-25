@@ -1,4 +1,4 @@
-# Hello, I'm Travis!
+# Hello, I'm Travis! 👋
 
 Welcome to my GitHub profile!
 I love backend development, so most of the projects I do rely on some sort of complex backend infrastructure.
