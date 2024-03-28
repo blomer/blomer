@@ -1,9 +1,9 @@
 # Hi, I'm Travis!👋
 
 ### I am working on one project at the moment... 🔭
-- **PvP Camp Network** - Owner and Lead Developer
-  - IP: `pvp.camp` (Minecraft versions 1.7.10+)
-  - Started in late 2023, this network has been my development sandbox for learning new things.
+- **BlockLounge** - Owner and Lead Developer
+  - IP: `blocklounge.net` (Minecraft versions 1.20+)
+  - Started in early 2024, this network is a brand new minigame network built from the ground up, built with scalability in mind.
 
 ### I have experience with... ⚡
 - Java
@@ -18,23 +18,4 @@
 
 ### Need to reach me? 📫
 - _preferred_ Discord: blomer
-- Email: travis@pvp.camp
-
-
-
-
-###
-<!--
-**blomer/blomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: travis@blocklounge.net
