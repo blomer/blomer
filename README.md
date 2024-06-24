@@ -1,13 +1,5 @@
 # Hi, I'm Travis!👋
-
-### I am working on one project at the moment... 🔭
-- **BlockLounge** - Owner and Lead Developer
-  - IP: `blocklounge.net` (Minecraft versions 1.20+)
-  - Started in early 2024, this network is a brand new minigame network built from the ground up, built with scalability in mind.
-- **Blomer Development** - Developer
-  - This is a freelance development group focused on creating Minecraft infrastructures, bots for Discord servers, and other products/services.
-  - Create a ticket on our Discord to start your next project: https://discord.gg/adWfYscE
-
+For quite a few years, I have been working on a bunch of hobby projects for mainly Minecraft servers.
 
 ### I have experience with... ⚡
 - Java
