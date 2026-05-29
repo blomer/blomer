@@ -1,17 +1,19 @@
 # Hi, I'm Travis!👋
-For quite a few years, I have been working on a bunch of hobby projects for mainly Minecraft servers.
+I used to work on Minecraft minigame servers, now I write casino management software!
+
+### Check out my new project.
+[CasinoRotation.com](github.com/casinorotation)
 
 ### I have experience with... ⚡
 - Java
 - MongoDB
 - Redis
-- Spigot API
-- Python (it has been a minute)
+- Minecraft Spigot API
 
 ### I am currently learning... 🌱
-- HTML, CSS, JS
-- Spring
+- JS
+- TypeScript
+- React
 
 ### Need to reach me? 📫
-- _preferred_ Discord: blomer
-- Email: travis@blocklounge.net
+- Email: travisblomer@gmail.com
